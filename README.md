@@ -2,9 +2,9 @@
 
 https://github.com/cevek/ttypescript/issues/141
 
-Run ```
-npm i
-npm run test
-```
+Run:
+`npm i`
+`npm run test`
+
 
 Tested with node 16 & 18.
