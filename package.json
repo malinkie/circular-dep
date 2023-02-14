@@ -1,0 +1,15 @@
+{
+  "name": "circular-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "source.js",
+  "scripts": {
+    "test": "ttsc --watch source.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ttypescript": "^1.5.15",
+    "typescript": "^4.9.5"
+  }
+}
